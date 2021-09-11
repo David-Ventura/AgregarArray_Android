@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Guia2</string>
+    <string name="nombre">David Alexander Ventura Valle</string>
+    <string name="codigo">VV18-I04-001</string>
+    <string name="ingresar">Ingresar Nombre</string>
+    <string name="registrar">Registrar</string>
+    <string name="datos">Datos</string>
+    <string name="lista">Lista</string>
+
+
+</resources>
